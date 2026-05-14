@@ -25,11 +25,18 @@ Atualmente focado no desenvolvimento de ferramentas para comunidades e no projet
 
 ---
 
+---
+
 <div align="center">
 
-### 📊 Estatísticas do GitHub
+## 🌌 Player Status — Taylovsk
+*“Onde realidades se conectam e o código se torna lenda.”*
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Taylovsk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylovsk&layout=compact&theme=dark&langs_count=6" alt="Linguagens mais usadas" />
+<img height="180em" src="https://github-readme-stats-six-republic.vercel.app/api?username=Taylovsk&show_icons=true&theme=dark&rank_icon=github&border_radius=10" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taylovsk&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+
+<br>
 
 </div>
+
+---
