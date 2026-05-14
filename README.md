@@ -4,21 +4,32 @@
 
 # Olá! Eu sou Taylovsk 👋
 
-</div>
-
-### 🛠️ Diretor Técnico & Arquiteto Visual
+# 🛠️ Diretor Técnico & Arquiteto Visual
 Atualmente focado no desenvolvimento de ferramentas para comunidades e no projeto **War Multiverse**.
 
-* 💻 **Desenvolvimento:** Python (Discord Bots), HTML/CSS.
-* 🎨 **Design:** Ilustração Digital e Concept Art.
-* 🌌 **RPG:** Lore Master e World Building.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Ibis Paint](https://img.shields.io/badge/Ibis_Paint_X-00BFFF?style=for-the-badge&logo=ibis-paint-x&logoColor=white)
+![And More](https://img.shields.io/badge/and%20more...-121212?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### 🌌 Sobre Mim
+* 💻 **Desenvolvimento:** Python focado em bots para Discord e automações.
+* 🎨 **Design:** Ilustração Digital, Concept Art e identidades visuais.
+* 📜 **RPG:** Lore Master e criador de mundos (War Multiverse).
 
 ---
 
 <div align="center">
 
-### Minhas Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taylovsk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taylovsk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Estatísticas do GitHub
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taylovsk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylovsk&layout=compact&theme=dark&langs_count=6" />
 
 </div>
